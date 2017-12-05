@@ -1,0 +1,9 @@
+{
+  "name": "adventofcode2017",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "keywords": [],
+  "author": "Paul Souche",
+  "license": "MIT"
+}
